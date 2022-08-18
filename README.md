@@ -1,2 +1,4 @@
 # ML-online-shoppers-intention
-Репозиторий для практических работ по курсу "Машинное обучение"
+Practical work on the course "Machine Learning".
+
+[Original data](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
